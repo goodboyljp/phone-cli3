@@ -1,4 +1,4 @@
-# phonemall
+# phone
 
 ## Project setup
 ```
